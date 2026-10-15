@@ -8,4 +8,6 @@ Local preview: `python3 -m http.server 8891`.
 
 Publishing: GitHub Pages, `main` branch, repository root. `.nojekyll` keeps the static files unchanged. All asset paths are relative to support the project subdirectory.
 
-The QR on `assets/setsail-pass.pdf` links to the published page. Update the downloadable PDF whenever the printout changes.
+The already printed QR points to `/holiday-sailing/reservation/7418926/`. Preserve that route and the PDF assets when editing page content. Both older entry URLs redirect to this reservation page.
+
+Before-you-sail links open dedicated `travel-documents/` and `check-in/` pages below the reservation route. Their return links point back to the reservation overview.
